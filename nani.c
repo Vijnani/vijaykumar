@@ -11,5 +11,8 @@ int main() {
     }
 
     printf("Factorial of %d = %d\n", num, factorial);
-    return 0;
+// vijaykumar
+    //  heloooooooooooo
+   return 0;
 }
+
